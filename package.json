@@ -1,7 +1,7 @@
 {
-  "name": "test",
+  "name": "mayajs",
   "version": "0.0.0",
-  "description": "Test MayaJS Project",
+  "description": "MayaJS Project",
   "main": "index.js",
   "scripts": {
     "start": "maya s",
